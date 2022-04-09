@@ -1,2 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
-! [mypic](https://octodex.github.com/images/yaktocat.png)
+! [mypic](http://www.acoderboy.top/wp-content/uploads/2022/04/03函数重构飞机游戏.jpg)
